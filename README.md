@@ -1,4 +1,4 @@
-# pokedesk_app
+# pokedex_app
 
 A new Flutter project.
 
